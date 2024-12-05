@@ -1,0 +1,9 @@
+[package]
+name = "smartmcare"
+version = "1.0.0"
+description = "backend_smart medicare"
+repository = ""
+keywords = [ ]
+license = "MIT"
+[dependencies]
+base = "0.12.1"
